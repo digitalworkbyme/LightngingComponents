@@ -1,17 +1,12 @@
 ## Welcome to DigitalAnand Lightning Works
 
-You can use the [editor on GitHub](https://github.com/digitalworkbyme/lightningcomponent/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Lighitng Component functions is to access business registration number from the besuinss registration portal and update it in salesforce Account page layout.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lighitng Component
 
-### Markdown
+Lighnting Component composed of seven and more component with Rest API integration with the registration portal 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
+## List of  Header 1
 ## Header 2
 ### Header 3
 
