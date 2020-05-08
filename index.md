@@ -4,7 +4,7 @@ The Lighitng Component functions is to access business registration number from 
 ###
 
 ## Lighitng Components
-### Header 3
+
 - Search Lightging Component 
 - List Lightning  Component
 - Selected Compononents
